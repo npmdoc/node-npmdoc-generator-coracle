@@ -1,4 +1,7 @@
-# api documentation for  generator-coracle (v1.1.7)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-coracle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-coracle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-coracle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-coracle)
+# npmdoc-generator-coracle
+
+#### basic api documentation for  generator-coracle (v1.1.7)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-coracle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-coracle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-coracle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-coracle)
+
 #### generator for coracle
 
 [![NPM](https://nodei.co/npm/generator-coracle.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-coracle)
@@ -51,7 +54,8 @@
     "name": "generator-coracle",
     "optionalDependencies": {},
     "scripts": {},
-    "version": "1.1.7"
+    "version": "1.1.7",
+    "bin": {}
 }
 ```
 
